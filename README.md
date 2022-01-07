@@ -8,5 +8,8 @@ Berkely-abc: $ sudo apt install berkeley-abc
 
 verification tools: SAT/SMT solver 
 
+#scripts
+scripts show use of some of the functions of the berkely-abc
+
 # Homework 
 For the given adder.v verify if the carry bit is correct.
