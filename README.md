@@ -12,4 +12,4 @@ verification tools: SAT/SMT solver
 scripts show use of some of the functions of the berkely-abc
 
 # Homework 
-For the given adder.v verify if the carry bit is correct.
+For the given adder.v verify if the carry bit (Y[2]) is correct.
