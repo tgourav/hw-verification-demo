@@ -8,6 +8,8 @@ Berkely-abc: $ sudo apt install berkeley-abc
 
 verification tools: SAT/SMT solver 
 
+synthesizing library: http://opencircuitdesign.com/verilog/ 
+
 #scripts
 scripts show use of some of the functions of the berkely-abc
 
