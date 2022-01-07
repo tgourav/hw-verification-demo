@@ -4,7 +4,8 @@ For hands-on session of ACM winter school 2022
 # Requirements 
 Benchmarks: https://iwls.org/iwls2005/benchmarks.html
  
-Berkely-abc: $ sudo apt install berkeley-abc
+Berkely-abc: $ sudo apt install berkeley-abc   
+http://people.eecs.berkeley.edu/~alanmi/abc/abc.htm
 
 verification tools: SAT/SMT solver 
 
