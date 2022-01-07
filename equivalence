@@ -1,0 +1,1 @@
+berkeley-abc -c "read benchmarks/b01.bench; read verilog_benchmarks/b01.v; cec "

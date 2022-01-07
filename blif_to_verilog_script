@@ -1,4 +1,3 @@
-# berkeley-abc -c "read apex2.blif; write HOLL/apex2.v"
 for f in `ls benchmarks/`
 do
   echo benchmarks/${f}

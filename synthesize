@@ -1,0 +1,1 @@
+berkeley-abc -c "read benchmarks/b01.bench; read_library lib.genlib; strash; map; print_stats "

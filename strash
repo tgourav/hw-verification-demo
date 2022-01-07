@@ -1,0 +1,1 @@
+berkeley-abc -c "read benchmarks/b01.bench; strash; write_dot b01.dot "
